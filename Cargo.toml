@@ -1,0 +1,15 @@
+[package]
+name = "exper"
+version = "0.1.0"
+authors = ["Ушаков Сергей <syntheticsh@intersvyaz.net>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+hex = "0.4"
+ascii = "1.0"
+buf-read-ext = "0.4.0"
+anyhow = "1.0"
+mp4 = "0.8"
+byteorder = "1.4"
